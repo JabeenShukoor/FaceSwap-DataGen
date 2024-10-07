@@ -28,4 +28,6 @@ This project focuses on generating face swaps using real human faces. It compris
 ```bash
 python main.py
 ```
-
+## Notes 
+1. Inswapper 128 model: ezioruan/inswapper_128.onnx
+2. Image dataset (FFHQ): https://github.com/NVlabs/ffhq-dataset
