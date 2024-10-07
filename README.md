@@ -1,7 +1,7 @@
 # FaceSwap-DataGen
 Generating Datasets for Face Swap Detection to Enhance Security Measures
 
-##Overview
+## Overview
 This project focuses on generating face swaps using real human faces. It comprises of four phases:
 
 1. **Metadata Extraction:** Collect metadata from the images, including age, gender, race, and emotion. 
@@ -10,13 +10,13 @@ This project focuses on generating face swaps using real human faces. It compris
 4. **Face Swapping:** Perform face swaps based on the detected features using the InSwapper (`inswapper_128.onnx`) model.
 
 
-##Prequisites 
+## Prerequisites 
 - Python 3.x
 - pip (Python package installer)
 - Inswapper model:
     * `inswapper_128.onnx`
 
-  ## Setup Instructions 
+## Setup Instructions 
 1. Install dependencies 
 
     ```bash
