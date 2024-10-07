@@ -1,0 +1,13 @@
+deepface
+opencv-python
+pandas
+numpy
+seaborn
+imbalanced-learn
+tensorflow
+insightface
+keras
+matplotlib
+mtcnn
+onnxruntime
+tf-keras
